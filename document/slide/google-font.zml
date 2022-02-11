@@ -1,0 +1,332 @@
+\zml?|version="1.1"|;
+\xml?|version="1.0",encoding="UTF-8"|;
+
+
+\root<
+  \use-style|href="../style/google-font.css"|;
+
+  \slide<
+    \div|class="title-content"|<
+      \div|class="title-container"|<
+        \div|class="title-decoration"|;
+        \div|class="title"|<
+          Google Fonts\br;
+          おすすめフォント 9 選
+        >
+      >
+      \div|class="date"|<Lightning Talk — @2022`/02`/14>
+    >
+  >
+
+  \slide<
+    \div|class="content alegreya"|<
+      \div|class="header"|<
+        \div|class="header-number"|<1>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Alegreya Sans>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Juan Pablo del Peral>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<サンセリフ体だけど線の運びが非常に優雅>
+        \div|class="description-item"|<レトロな和文ゴシック体と相性が良さそう>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content alegreya-italic"|<
+      \div|class="header"|<
+        \div|class="header-number"|<1>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Alegreya Sans>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Juan Pablo del Peral>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<イタリックは直線と曲線のメリハリが神 (特に小文字)>
+        \div|class="description-item"|<一日中見てられる>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content josefin"|<
+      \div|class="header"|<
+        \div|class="header-number"|<2>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Josefin Sans>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Santiago Orozco>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample; 
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<幾何学的な造形でありつつも無機質さを感じさせない>
+        \div|class="description-item"|<〈e〉がかわいい すき>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content jost"|<
+      \div|class="header"|<
+        \div|class="header-number"|<3>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Jost>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Owen Earl>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample; 
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<同じく幾何学的な造形だけどこっちはニュートラルな印象>
+        \div|class="description-item"|<すっきりスタイリッシュに決めたいときにどうぞ>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content kite"|<
+      \div|class="header"|<
+        \div|class="header-number"|<4>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Kite One>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Eduardo Tunni>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample; 
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<手書き感のある温かい線が特徴>
+        \div|class="description-item"|<普段からこういう字書きたい･･･>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content passero"|<
+      \div|class="header"|<
+        \div|class="header-number"|<5>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Passero One>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Viktoriya Grabowska>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample; 
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content fruktur"|<
+      \div|class="header"|<
+        \div|class="header-number"|<6>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Fruktur>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Viktoriya Grabowska>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample; 
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<かなりはしゃいじゃったブラックレターって感じ>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content abril"|<
+      \div|class="header"|<
+        \div|class="header-number"|<7>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Abril Fatface>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>TypeTogether>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<上品で高級感のあるデザイン>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content cinzel"|<
+      \div|class="header"|<
+        \div|class="header-number"|<8>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Cinzel>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Natanael Gama>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<古代ローマ感>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content almendra"|<
+      \div|class="header"|<
+        \div|class="header-number"|<9>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Almendra>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Ana Sanfelippo>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="content almendra-italic"|<
+      \div|class="header"|<
+        \div|class="header-number"|<9>
+        \div|class="header-name-container"|<
+          \div|class="header-name"|<\span|class="text"|<Almendra>>
+          \div|class="header-info"|<\span|class="text"|<\span|class="header-info-heading"|<Designer>Ana Sanfelippo>>
+        >
+      >
+      \div|class="center"|<
+        \div|class="specimen",range="2-"|<
+          \specimen;
+        >
+        \div|class="sample",range="-1"|<
+          \sample;
+        >
+      >
+      \div|class="description"|<
+        \div|class="description-item"|<>
+        \div|class="description-item"|<>
+      >
+    >
+  >
+
+  \slide<
+    \div|class="final-content"|<
+      \div|class="font-list-container"|<
+        \div|class="font-list"|<
+          \div|class="font-item alegreya"|<
+            \div|class="font-item-number"|<1>
+            \div|class="font-item-name"|<\span|class="text"|<Alegreya Sans>>
+          >
+          \div|class="font-item josefin"|<
+            \div|class="font-item-number"|<2>
+            \div|class="font-item-name"|<\span|class="text"|<Josefin Sans>>
+          >
+          \div|class="font-item jost"|<
+            \div|class="font-item-number"|<3>
+            \div|class="font-item-name"|<\span|class="text"|<Jost>>
+          >
+          \div|class="font-item kite"|<
+            \div|class="font-item-number"|<4>
+            \div|class="font-item-name"|<\span|class="text"|<Kite One>>
+          >
+          \div|class="font-item passero"|<
+            \div|class="font-item-number"|<5>
+            \div|class="font-item-name"|<\span|class="text"|<Passero One>>
+          >
+        >
+        \div|class="font-list"|<
+          \div|class="font-item fruktur"|<
+            \div|class="font-item-number"|<6>
+            \div|class="font-item-name"|<\span|class="text"|<Fruktur>>
+          >
+          \div|class="font-item abril"|<
+            \div|class="font-item-number"|<7>
+            \div|class="font-item-name"|<\span|class="text"|<Abril Fatface>>
+          >
+          \div|class="font-item cinzel"|<
+            \div|class="font-item-number"|<8>
+            \div|class="font-item-name"|<\span|class="text"|<Cinzel>>
+          >
+          \div|class="font-item almendra"|<
+            \div|class="font-item-number"|<9>
+            \div|class="font-item-name"|<\span|class="text"|<Almendra>>
+          >
+        >
+      >
+    >
+  >
+
+>
