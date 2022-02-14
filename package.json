@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@typescript/lib-dom": "npm:@zenml/xmldom-type",
-    "@zenml/slide": "^0.0.0",
+    "@zenml/slide": "^0.1.0",
     "@zenml/xmldom": "^1.0.0",
     "@zenml/zenml": "^1.1.0",
     "@zenml/zotica": "^1.0.0",
