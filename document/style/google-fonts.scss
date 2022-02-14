@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 @use "sass:math" as *;
+@import "./common.scss";
 @import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@0;1&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Cinzel&display=swap");
@@ -22,7 +23,7 @@ html {
 }
 
 body {
-  font-family: "PT Sans", "源ノ角ゴシック";
+  font-family: "PT Sans", "Noto Sans JP";
   font-size: 4rem;
   font-feature-settings: "palt" 1, "pkna" 1;
   line-height: 1;
