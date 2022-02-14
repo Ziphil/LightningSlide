@@ -2,11 +2,11 @@
 
 import fallbackManager from "./fallback";
 import htmlManager from "./html";
-import specialGoogleFontManager from "./special/google-font";
+import specialGoogleFontsManager from "./special/google-fonts";
 
 
 let managers = [
-  specialGoogleFontManager,
+  specialGoogleFontsManager,
   htmlManager,
   fallbackManager
 ];
