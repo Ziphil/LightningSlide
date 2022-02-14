@@ -3,7 +3,7 @@
 
 
 \root<
-  \use-style|href="../style/google-font.css"|;
+  \use-style|href="../style/google-fonts.css"|;
 
   \slide<
     \div|class="title-content"|<
