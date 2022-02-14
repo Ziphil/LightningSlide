@@ -199,12 +199,14 @@ body {
 
 .description {
   height: 10rem;
+  line-height: 1.4;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
 }
 
-.description-item {
+.description-item,
+.case-description-item {
   &::before {
     margin-right: 0.3em;
     color: $blue-color;
@@ -213,12 +215,17 @@ body {
 }
 
 .title-content,
+.case-content,
 .final-content {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.case-content {
+  justify-content: space-evenly;
 }
 
 .title-container {
@@ -240,6 +247,17 @@ body {
 .date {
   margin-top: 3rem;
   color: rgba($blue-color, 0.5);
+}
+
+.case-title {
+  font-size: 160%;
+  color: inherit;
+  text-decoration: none;
+  line-height: 1.4;
+}
+
+.case-description {
+  line-height: 1.4;
 }
 
 .font-list-container {
@@ -273,4 +291,9 @@ body {
 
 .font-item-name {
   font-size: 150%;
+}
+
+.emoji {
+  width: 1em;
+  vertical-align: -0.1em;
 }

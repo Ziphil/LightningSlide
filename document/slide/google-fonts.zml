@@ -19,6 +19,22 @@
   >
 
   \slide<
+    \div|class="case-content"|<
+      \a|class="case-title",href="https://thehackernews.com/2022/01/german-court-rules-websites-embedding.html"|<
+        German Court Rules\br;
+        Websites Embedding Google Fonts\br;
+        Violates GDPR
+      >
+      \div|class="case-description"|<
+        \div|class="case-description-item"|<ミュンヘン地方裁判所の判決>
+        \div|class="case-description-item"|<Google Fonts の無許可利用は GDPR に違反>
+        \div|class="case-description-item"|<IP アドレスを Google に送信しているというのが根拠>
+        \div|class="case-description-item"|<\img|class="emoji",src="https://twemoji.maxcdn.com/v/latest/svg/1f97a.svg"|;>
+      >
+    >
+  >
+
+  \slide<
     \div|class="content alegreya"|<
       \div|class="header"|<
         \div|class="header-number"|<1>

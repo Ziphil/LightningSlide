@@ -8,7 +8,7 @@ import {
 
 let manager = new SlideTemplateManager();
 
-manager.registerElementRule(["div", "span", "img", "br"], "slide", withRange((transformer, document, element) => {
+manager.registerElementRule(["div", "span", "a", "img", "br"], "slide", withRange((transformer, document, element) => {
   let self = document.createDocumentFragment();
   self.appendElement(element.tagName, (self) => {
     for (let i = 0 ; i < element.attributes.length ; i ++) {
