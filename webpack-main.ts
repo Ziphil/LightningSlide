@@ -2,6 +2,7 @@
 
 import path from "path";
 import externals from "webpack-node-externals";
+import CopyPlugin from "copy-webpack-plugin";
 
 
 let config = {
@@ -61,6 +62,13 @@ let config = {
   resolve: {
     extensions: [".ts", ".js", ".scss", ".html"]
   },
+  plugins: [
+    new CopyPlugin({
+      patterns: [
+        {from: "document/slide/*.pdf", to: "../out/slide/[name][ext]"},
+      ],
+    }),
+  ],
   cache: true
 };
 
