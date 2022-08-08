@@ -9,3 +9,4 @@
 
 - [Google Fonts おすすめフォント 9 選](https://ziphil.github.io/LightningSlideOut/slide/google-fonts.html) (2022/02/14)
 - [辞書順の闇](https://ziphil.github.io/LightningSlideOut/slide/lexicographical-order.pdf) (2022/05/09)
+- [The art of KERNING](https://ziphil.github.io/LightningSlideOut/slide/kerning.pdf) (2022/08/08)
